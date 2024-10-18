@@ -1,0 +1,27 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+certifi==2024.8.30
+charset-normalizer==3.4.0
+filelock==3.16.1
+fsspec==2024.9.0
+future @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+huggingface-hub==0.26.0
+idna==3.10
+Jinja2==3.1.4
+macholib @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+MarkupSafe==3.0.1
+mpmath==1.3.0
+networkx==3.2.1
+numpy==2.0.2
+packaging==24.1
+PyYAML==6.0.2
+regex==2024.9.11
+requests==2.32.3
+safetensors==0.4.5
+six @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+sympy==1.13.1
+tokenizers==0.20.1
+torch==2.5.0
+tqdm==4.66.5
+transformers==4.45.2
+typing_extensions==4.12.2
+urllib3==2.2.3
